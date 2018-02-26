@@ -1,0 +1,46 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+</head>
+<body>
+<h2>Datasets for "Accurate Phylogenetic Tree Reconstruction from Quartets: A Heuristic Approach"</h2>
+<h3>Rezwana Reaz, Md. Shamsuzzoha Bayzid and M. Sohel Rahman</h3>
+
+
+<hr>
+
+<p> Please download the datasets and executable for QFM from <a href="datasets-PLOS-new.tar">here</a> 
+
+<h4>Simulated datasets</h4>
+<p>File contents:</p>
+<ul>
+<li>Simulated input quartets: datasets-PLOS-new/simulated-datasets/Ri.quartets-nX-qY-cZ.dat - where X is the number of taxa, Y is the number of quartets and Z is the percentage of erroneous quartets. For each model condition (X,Y,Z), we generated 20 replicates. Ri (i = 1, 2, ..., 20) refers to the i-th replicate. A quartet q = ((1,2),(2,3)); is represented as 1,2|3,4 which is the required format for QMC. datasets_PLOS/simulated-datasets/quartets-nX-qY-cZ.dat.newick contains the same quartets in newick format. Newick is the required format for QFM. </li>
+<li>Model species trees: Model species trees for different model conditions can be found at: datasets-PLOS-new/Model-trees/Ri.tree-X-Y-Z.dat - where X is the number of taxa, Y is the number of quartets, Z is the percentage of erroneous quartets and Ri is the ith replicate.</li>
+
+</ul>
+
+<hr>
+
+<h4>Biological datasets: 18 gene trees on 25 species from 4 families of birds</h4>
+<p>This dataset has originally been used to study the efficacy of species tree methods at the family level in birds, using the Australo-Papuan Fairy-wrens (Passeriformes:Maluridae) clade (Lee et al., Systematic Biology 61: 253-271. doi: 10.1093/sysbio/syr101).</p>
+<p>File contents:</p>
+<ul>
+<li>gene tree: datasets-PLOS-new/bio-Australo/genetrees - this file contains the 18 gene trees downloaded from TreeBASE. </li>
+<li>Induced quartets: datasets-PLOS-new/bio-Australo/all_genetree_quartets.newick - 227,700 induced quartets from the 18 gene trees. Taxa names have been mapped from the original names to integer labels. The corresponding mapping can be found at datasets-PLOS-new/bio-Australo/map.</li>
+</ul>
+
+<hr>
+
+<h4> QFM source code and executable:</h4>
+<p>File contents:</p>
+<ul>
+<li>QFM executable: datasets-PLOS-new/QFM/QFM_beta</li>
+<li>Usage: datasets-PLOS-new/QFM/README.txt</li>
+<li>Source code: datasets-PLOS-new/QFM/QFMstr.cpp</li>
+</ul>
+
+<hr>
+
+Please email <i>rezwana AT cs.utexas.edu</i> if you have any questions.
+
+
+</body></html>

@@ -1,0 +1,76 @@
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Md. Shamsuzzoha Bayzid</title>
+<link href="menu_data/style.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+ul a:link {
+	text-decoration: none;
+	color: #666666;
+}
+ul a:visited {
+	text-decoration: none;
+	color: #666666;
+}
+ul a:hover {
+	text-decoration: none;
+	color: #000000;
+}
+ul a:active {
+	text-decoration: none;
+}
+
+#basic-accordian{	
+	z-index:2;	
+}
+
+.accordion_headings{
+	padding:5px;
+	background:#FFFFFF;
+	border:1px solid #FFFFFF;
+	cursor:pointer;
+	font-weight:bold;
+}
+
+.accordion_headings:hover{
+	background:#DDDDDD;
+}
+
+.selected{
+	background:#ECECEC;
+}
+
+
+</style>
+<script type="text/javascript" src="main_data/accordian-src.js"></script>
+</head><body onload="new Accordian('basic-accordian',5,'selected');">
+<div id="ContentLayer">	
+    <br>
+    <br>
+    <span class="head">
+	<a href="fewmore.htm">miscellaneous</a> . honours & awards
+    </span>
+    <br>
+    <br>
+    <br>
+<font size="2.5">    
+
+					<ul style="margin-top: 0px;">  
+					<li>PSB 2013 (January 3-7, Hawaii) travel award from the National Library of Medicine/National Institutes of Health. <br></li> 
+					<li>Graduate Dean's Prestigious Fellowship, UT Austin (2012-2013)<br></li> 
+					<li>Graduate Dean's Prestigious Fellowship, UT Austin (2011-2012)<br></li> 
+					<li>Graduate Dean's Prestigious Fellowship, UT Austin (2010-2011)<br></li> 
+					
+					<li>Dean's Excellence Award from the College of Natural Sciences, UT Austin (Fall 2010) <br></li>			
+					<li>International Fulbright Science and Technology PhD Award 2010.<br></li>  		
+					<li>Dean's List Award for academic excellence in all completed levels (years), BUET.<br></li>
+					<li>University Merit Scholarship for academic excellence in all terms (semesters), BUET.<br></li>
+					<li>Khatimunnesa and Md. Hanif Laskar Trust Fund Scholarship, BUET.<br></li>
+					<li>Dhaka Education Board Scholarship for excellence (5th) in the HSC examination.<br></li>
+					<li>Dhaka Education Board Scholarship for excellence (19th) in the SSC examination.<br></li>
+					<li>Placed 1st (talent pool) in the Junior Scholarship Examination, 1998<br></li>	
+					<li>Champion in a Speech Competition on "Women's Rights", Narayanganj.<br></li>	
+									
+					</ul>
+</div>
+				
+</body></html>

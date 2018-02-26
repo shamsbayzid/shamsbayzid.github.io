@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Md. Shamsuzzoha Bayzid</title>
+<link href="menu_data/style.css" rel="stylesheet" type="text/css">
+</head><body>
+<div id="ContentLayer">
+    <br>
+    <br>
+    <span class="head">
+    <a href="index.htm">Home</a> . miscellaneous
+    </span>
+    <br>
+    <br>    
+	<br>
+    <blockquote>
+      	<strong>
+		 <!--	<a href="itsme.htm">it's me</a><br>  -->
+			<a href="files/CV_Bayzid.pdf">resume</a><br>
+			<a href="awards.htm">honours & awards</a><br>
+			<a href="acknowledgement.htm">acknowledgements</a><br>
+			<a href="Files.htm">Files</a><br>
+
+
+		</strong>
+    </blockquote>    
+</div>
+</body></html>
